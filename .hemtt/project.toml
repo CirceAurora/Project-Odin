@@ -1,0 +1,19 @@
+name = "Project Odin"
+author = "Circe Aurora"
+prefix = "odin"
+mainprefix = "z"
+
+[files]
+include = ["mod.cpp", "LICENSE"]
+
+[version]
+git_hash = 0
+
+[asc]
+enabled = true
+
+[hemtt.config]
+preset = "Hemtt"
+
+[signing]
+authority = "circe-aurora.odin"
